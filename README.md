@@ -13,7 +13,7 @@ calculates entropy, and estimates crack time.
 
 ## Installation
 
-git clone https://github.com/username/password-strength-checker.git
+git clone https://github.com/SuryaHanuman/Password-Strength-Checker.git
 
 cd password-strength-checker
 
